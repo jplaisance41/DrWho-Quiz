@@ -73,14 +73,23 @@ button {
     font-size: 150%;
 }
 
+label {
+    background-color: #003B6F;
+    color: #F9A603;
+    border: solid #F9A603 1px;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px;
+}
+
 #submit {
-    font-size: 100%;
+    font-size: 30px;
     margin: 20px;
 }
 
 footer {
     text-align: center;
-    font-size: 150%;
+    font-size: 40px;
 }
 
 button:hover {
